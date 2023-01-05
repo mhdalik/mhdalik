@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mhdalik
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Python Programming
-
-<!---
-mhdalik/mhdalik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 MUHAMMAD ALI K
+<b><i>Software Developer </i></b>
+## SKILLS
+<b>Expert:</b> </legend>
+Python, Django
+<br>
+<b>Intermediate:</b> HTML, CSS, Bootstrap, JavaScript, GitHub
+<br>
+<b>Basic:</b> PHP, C & JAVA, Graphics Design, UI/UX Design, Figma, MS Office
