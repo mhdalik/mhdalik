@@ -2,7 +2,7 @@
 <b><i>Software Developer </i></b>
 ## SKILLS
 <b>Expert:</b> </legend>
-Python, Django
+Python, Django, Laravel
 <br>
 <b>Intermediate:</b> HTML, CSS, Bootstrap, JavaScript, GitHub
 <br>
