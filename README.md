@@ -1,4 +1,14 @@
-<h1 style="text-align: center;">👋 MUHAMMAD ALI K</h1>   
+<h1 style="text-align: center;">🤝 Its Me ALI</h1>   
 
 
-<p style="text-align: center;">Fullstack Developer</p>
+## Fullstack Developer
+
+## Overview:
+
+**Frameworks:** Laravel, Django, NuxtJs, VueJs,  // Can work on AnyJs😁 frameworks
+
+**Integrations:** Payment,GoogleMap,Authentication, OAuth
+
+**Tools:** Github, Figma, Lucid
+
+**Patterns:** MVC (Model View Controller), MVT (Model View Template),
